@@ -21,6 +21,7 @@ to delete / remove the file
 
 to insatll git on linux
 - yum install git
+1.
 
 
 To login to root 
